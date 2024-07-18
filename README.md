@@ -146,7 +146,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 <!-- Github -->
 <a 
     target="_blank" 
-    href="https://github.com/EdenStack">
+    href="https://github.com/xEdenx">
     <img
         src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
     </img>    
