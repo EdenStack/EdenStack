@@ -20,16 +20,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 <br>
 
 # <b>Languages and Tools :-</b>
-<p align="left">
-<!-- vs code -->
- <a 
-    href="https://code.visualstudio.com/" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-        alt="VS code" width="40" height="40"
-    /> 
- </a>  
+<p align="left"> 
  <!-- java -->
  <a 
     href="https://www.java.com" 
@@ -39,40 +30,58 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="java" width="40" height="40"
     /> 
  </a> 
+ <!-- spring -->
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"
+        alt="spring" width="40" height="40"
+    /> 
+ </a> 
+ <!-- intellij -->
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
+        alt="intellij" width="40" height="40"
+    /> 
+ </a> 
+  <!-- kubernetes -->
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg"
+        alt="intellij" width="40" height="40"
+    /> 
+ </a> 
+ <!-- vs code -->
+ <a 
+    href="https://code.visualstudio.com/" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+        alt="VS code" width="40" height="40"
+    /> 
+ </a> 
  <!-- angular -->
  <a 
     href="https://www.java.com" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg"
         alt="java" width="40" height="40"
     /> 
  </a> 
- <!-- html -->
+ <!-- maven -->
  <a 
     href="https://www.java.com" 
     target="_blank" rel="noreferrer"> 
     <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
- <!-- css -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="java" width="40" height="40"
-    /> 
- </a> 
- <!-- js -->
- <a 
-    href="https://www.java.com" 
-    target="_blank" rel="noreferrer"> 
-    <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="java" width="40" height="40"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"
+        alt="maven" width="40" height="40"
     /> 
  </a> 
  <!-- android -->
@@ -84,6 +93,24 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         alt="java" width="40" height="40"
     /> 
  </a> 
+ <!-- nestjs -->
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
+        alt="nestjs" width="40" height="40"
+    /> 
+ </a> 
+ <!-- ionic -->
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg"
+        alt="ionic" width="40" height="40"
+    /> 
+ </a> 
  <!-- git -->
  <a 
     href="https://git-scm.com/"
@@ -91,6 +118,15 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
     <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"
         width="40" height="40"
+    /> 
+ </a> 
+ <!-- nodejs -->
+ <a 
+    href="https://www.java.com" 
+    target="_blank" rel="noreferrer"> 
+    <img
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+        alt="nodejs" width="40" height="40"
     /> 
  </a> 
 
