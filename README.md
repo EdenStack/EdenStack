@@ -17,7 +17,7 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
 - 🌱 I am a Fullstack developer
 - 👯 I’m looking for something new or creating some project.
 - 🏆 AI Application Architect focused on building production-grade AI agents with Java and TypeScript, backed by expertise in distributed systems, cloud-native platforms, model governance, evaluation, security, observability, and business delivery.
-- 📫 How to reach me: eden.opt@gmail.com
+- 📫 How to reach me: eden.localhost@gmail.com
 
  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
@@ -150,31 +150,12 @@ src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/
         src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
     </img>    
 </a>
-<!-- LinkedIn
-<a 
-    target="_blank"
-    href="https://www.linkedin.com/in/shalini-bhatt-2606761bb/">
-    <img
-        src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white">
-    </img>
-</a>
-<br>
--->
 <!-- GMail -->
 <a 
     target="_blank" 
-    href="mailto:eden.opt@gmail.com">
+    href="mailto:eden.localhost@gmail.com">
     <img
         src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
     </img>    
 </a>
-<!-- Twitter
-<a 
-    target="_blank" 
-    href="https://twitter.com/Shalini65464696">
-    <img
-        src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=Twitter&logoColor=white">
-    </img>
-</a>
--->
 </p>
